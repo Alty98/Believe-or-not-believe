@@ -1,0 +1,12 @@
+C:\Users\Altytsev\source\repos\BelieveOrNotBelieve\BelieveOrNotBelieve\bin\Debug\netcoreapp3.1\BelieveOrNotBelieve.exe
+C:\Users\Altytsev\source\repos\BelieveOrNotBelieve\BelieveOrNotBelieve\bin\Debug\netcoreapp3.1\BelieveOrNotBelieve.deps.json
+C:\Users\Altytsev\source\repos\BelieveOrNotBelieve\BelieveOrNotBelieve\bin\Debug\netcoreapp3.1\BelieveOrNotBelieve.runtimeconfig.json
+C:\Users\Altytsev\source\repos\BelieveOrNotBelieve\BelieveOrNotBelieve\bin\Debug\netcoreapp3.1\BelieveOrNotBelieve.runtimeconfig.dev.json
+C:\Users\Altytsev\source\repos\BelieveOrNotBelieve\BelieveOrNotBelieve\bin\Debug\netcoreapp3.1\BelieveOrNotBelieve.dll
+C:\Users\Altytsev\source\repos\BelieveOrNotBelieve\BelieveOrNotBelieve\bin\Debug\netcoreapp3.1\BelieveOrNotBelieve.pdb
+C:\Users\Altytsev\source\repos\BelieveOrNotBelieve\BelieveOrNotBelieve\obj\Debug\netcoreapp3.1\BelieveOrNotBelieve.AssemblyInfoInputs.cache
+C:\Users\Altytsev\source\repos\BelieveOrNotBelieve\BelieveOrNotBelieve\obj\Debug\netcoreapp3.1\BelieveOrNotBelieve.AssemblyInfo.cs
+C:\Users\Altytsev\source\repos\BelieveOrNotBelieve\BelieveOrNotBelieve\obj\Debug\netcoreapp3.1\BelieveOrNotBelieve.csproj.CoreCompileInputs.cache
+C:\Users\Altytsev\source\repos\BelieveOrNotBelieve\BelieveOrNotBelieve\obj\Debug\netcoreapp3.1\BelieveOrNotBelieve.dll
+C:\Users\Altytsev\source\repos\BelieveOrNotBelieve\BelieveOrNotBelieve\obj\Debug\netcoreapp3.1\BelieveOrNotBelieve.pdb
+C:\Users\Altytsev\source\repos\BelieveOrNotBelieve\BelieveOrNotBelieve\obj\Debug\netcoreapp3.1\BelieveOrNotBelieve.genruntimeconfig.cache
